@@ -1,0 +1,18 @@
+[
+    {
+        "ID":"1",
+        "adi":"Nutuk",
+        "yazar":"MUSTAFA KEMAL ATATÜRK"
+    },
+    {
+            "ID":"2",
+            "adi":"tebeşir tozu",
+            "yazari":"Sezer Ortadağ"
+    },
+    {
+        "ID":"3",
+        "adi":"küçük prens",
+        "yazari":"antonie"
+    }
+
+]
